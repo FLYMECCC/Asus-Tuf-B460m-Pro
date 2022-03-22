@@ -1,5 +1,7 @@
 # Asus-Tuf-B460m-Pro
 ![wecom-temp-773a896a338aa7ea5a2b2a4040cecb4b](https://user-images.githubusercontent.com/50562879/159426992-2f5bc4d5-6dd7-4d5e-bd34-fef6bca2a07a.png)
+
+
 详细信息
 电脑型号	Asus tuf b460m pro
 OS:当前系统版本	macOS Monterey 12.2.1 
